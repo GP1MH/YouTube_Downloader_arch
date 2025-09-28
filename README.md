@@ -26,7 +26,7 @@
 
 1.  **نزّل الملف التنفيذي:**
 
-      * قم بزيارة صفحة [الإصدارات (Releases)](https://www.google.com/search?q=https://github.com/YourUsername/YouTubeDownloader/releases) (أضف الرابط الفعلي لمشروعك).
+      * قم بزيارة صفحة [الإصدارات (Releases)](https://github.com/GP1MH/YouTube_Downloader_arch/releases/tag/v1.0.0) (أضف الرابط الفعلي لمشروعك).
       * قم بتنزيل الملف المسمى **`YouTubeDownloader`** (بدون امتداد، لبيئة Linux 64-bit).
 
 2.  **التشغيل عبر الطرفية:**
